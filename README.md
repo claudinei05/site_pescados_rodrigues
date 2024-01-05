@@ -1,4 +1,6 @@
-Inicializar aas instalação de bibliotecas e configuração
+### `O Projeto esta em fase de desenvolvimento`
+
+Inicializar as instalação de bibliotecas e configuração
 
 ### `npm install`
 
